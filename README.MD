@@ -1,3 +1,3 @@
 # PROJETOS EM PYTHON
 
-## Além do Console, testando aplicabildiade de parte visual com PysimpleGUI
+### Além do Console, testando aplicabilidade de parte visual com PysimpleGUI
