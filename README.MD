@@ -1,7 +1,7 @@
 # PROJETOS EM PYTHON
 
-### 8 Projetos(Sendo 4 só no prompt e depois pegar os 4 colocar parte gráfica)
-## Além do Console, testando aplicabilidade de parte visual com PysimpleGUI
+## 8 Projetos(Sendo 4 só no prompt e depois pegar os 4 colocar parte gráfica)
+#### Além do Console, testando aplicabilidade de parte visual com PysimpleGUI
 
 ##### Projeto 1 -> Simular um DADO (6 lados)
 ##### Projeto 2 -> Chute um numero de 1 a 100 (o app interage e diz se está próximo para cima ou para baixo do valor aleatorio gerado)
