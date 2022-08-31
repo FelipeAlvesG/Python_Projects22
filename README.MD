@@ -7,4 +7,3 @@
 ##### Projeto 3 -> Decida por mim (Criar uma lista de respostas aleatorias, recebe uma pergunta qualquer e responde para o usuario)
 ##### Projeto 4 -> Um jogo de Aventura, varios fins diferentes( No caso tudo vai depender das respostas)
 =======
-## Além do Console, testando aplicabildiade de parte visual com PysimpleGUI
